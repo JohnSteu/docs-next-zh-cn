@@ -186,7 +186,7 @@ Vue.createApp(Demo).mount('#list-complete-demo')
 需要注意的是使用 FLIP 过渡的元素不能设置为 `display: inline`。作为替代方案，可以设置为 ` display: inline-block` 或者将元素放置于 flex 布局中。
 :::
 
-FLIP 动画不仅可以实现单维度的过渡，多维网格种的元素也[同样可以过渡](https://codesandbox.io/s/github/vuejs/vuejs.org/tree/master/src/v2/examples/vue-20-list-move-transitions)：
+FLIP 动画不仅可以实现单维度的过渡，多维网格中的元素也[同样可以过渡](https://codesandbox.io/s/github/vuejs/vuejs.org/tree/master/src/v2/examples/vue-20-list-move-transitions)：
 
 TODO：示例
 
